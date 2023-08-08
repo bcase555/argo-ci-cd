@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: bcase555
+        image: ghcr.io/bcase555/we45-app
         ports:
         - containerPort: 80
